@@ -1,0 +1,633 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvri_big1.png" group-title="INDONESIA", TVRI
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvri_big1.png" group-title="INDONESIA", TVRI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvri_big1.png" group-title="INDONESIA", TVRI SPORT
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/509.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvri_big1.png" group-title="INDONESIA", TVRI SPORT
+http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.postimg.cc/Fs9WvG8Q/MNCtv.jpg" group-title="INDONESIA", MNCTV
+http://syarman.hexat.com/INDONESIA%20HD/mnctv.m3u8
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.postimg.cc/Fs9WvG8Q/MNCtv.jpg" group-title="INDONESIA", MNCTV
+https://liveanevia.mncnow.id/live/eds/MNCTV-Merdeka/sa_hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-HO0bKm61gag/XbLtZYpFkVI/AAAAAAAAAtI/5cG_swWFmsQCd0JyWBI080A1zTis6N_hACLcBGAsYHQ/s1600/20191010_164600.png" group-title="INDONESIA", RCTI
+http://syarman.hexat.com/INDONESIA%20HD/rcti.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-HO0bKm61gag/XbLtZYpFkVI/AAAAAAAAAtI/5cG_swWFmsQCd0JyWBI080A1zTis6N_hACLcBGAsYHQ/s1600/20191010_164600.png" group-title="INDONESIA", RCTI
+http://s1.urhdiptv.net:8080/live/mma2/45212156/80040.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HsqNM8Hc/globaltv.png" group-title="INDONESIA", GTV
+http://syarman.hexat.com/INDONESIA%20HD/gtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HsqNM8Hc/globaltv.png" group-title="INDONESIA", GTV
+https://livetv01.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DyWXD5DD/antv.png" group-title="INDONESIA", ANTV 
+https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DyWXD5DD/antv.png" group-title="INDONESIA", ANTV
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/23.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/B6ZFwp58/sctv.png" group-title="INDONESIA", SCTV
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/22.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/B6ZFwp58/sctv.png" group-title="INDONESIA", SCTV 
+https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdwWh5Lt/indosiar.png" group-title="INDONESIA", INDOSIAR 
+https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdwWh5Lt/indosiar.png" group-title="INDONESIA", INDOSIAR
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKv7J82B/tvone.png" group-title="INDONESIA", TV ONE
+https://visionplus-stream.visionplus.id/live/eds/TVONE-Decepticon/sa_hls/TVONE-Decepticon.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKv7J82B/tvone.png" group-title="INDONESIA", TV ONE
+https://liveanevia.mncnow.id/live/eds/TVONE-Decepticon/sa_hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCYc7yzg/metrotv.png" group-title="INDONESIA", METRO TV
+http://syarman.hexat.com/INDONESIA%20HD/metrotv.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCYc7yzg/metrotv.png" group-title="INDONESIA", METRO TV
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/301.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J4FL2h8M/cnnindonesia.png" group-title="INDONESIA", CNN INDONESIA
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J4FL2h8M/cnnindonesia.png" group-title="INDONESIA", CNN INDONESIA
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/299.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_big1.png?v=2.0.0.13" group-title="INDONESIA", TRANS TV
+https://liveanevia.mncnow.id/live/eds/TRANSTV-autobot/sa_hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_big1.png?v=2.0.0.13" group-title="INDONESIA", TRANS TV
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/27.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="INDONESIA", TRANS 7
+https://liveanevia.mncnow.id/live/eds/TRANS7-transformer/sa_hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="INDONESIA", TRANS 7
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/26.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_net_big1.png?v=2.0.0.13" group-title="INDONESIA", NET
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/268.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_net_big1.png?v=2.0.0.13" group-title="INDONESIA", NET
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kompas-tv-id.png" group-title="INDONESIA", KOMPAS TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kompas-tv-id.png" group-title="INDONESIA", KOMPAS TV
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/303.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3r4RxmbC/inewstv.png" group-title="INDONESIA", INEWS
+https://liveanevia.mncnow.id/live/eds/InewsTV-Agustus/sa_hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3r4RxmbC/inewstv.png" group-title="INDONESIA", INEWS
+http://syarman.hexat.com/INDONESIA%20HD/Inews.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="BERITA SATU" tvg-logo="https://www.lyngsat.com/logo/tv/bb/berita_satu_id_hd.png" group-title="INDONESIA",BERITA SATU
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BERITA SATU" tvg-logo="https://www.lyngsat.com/logo/tv/bb/berita_satu_id_hd.png" group-title="INDONESIA",BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/chunklist_b1128000.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="CNBC INDO" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cmbc-indonesia-us-id.png" group-title="INDONESIA",CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CNBC INDO" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cmbc-indonesia-us-id.png" group-title="INDONESIA",CNBC INDONESIA
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/300.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fb172pW8/rajawalitv.png" group-title="INDONESIA", RTV
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/28.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="CITRA  DRAMA" tvg-logo="https://www.lyngsat.com/logo/tv/cc/citra-drama-id.png" group-title="INDONESIA",CITRA  DRAMA
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/452.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradangdut_small.png" group-title="INDONESIA", CITRA DANGDUT
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/455.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="DUNIA LAIN" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dunia_lain_id.png" group-title="INDONESIA",DUNIA LAIN
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/456.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="JAKARTA GLOBE" tvg-logo="https://www.lyngsat-stream.com/logo/tv/jj/jakarta_globe_news_channel_id.png" group-title="LOKAL",JAKARTA GLOBE
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/516.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJdp2Wnw/the-indonesia-channel.png" group-title="INDONESIA",THE INDONESIA CHANNEL
+https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SxmR2TZz/daaitv.png" group-title="INDONESIA", DAAI TV
+http://45.126.83.51/qwr9ew/s/s13/index2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fT3grLq6/DIGDAYA-TV.png" group-title="INDONESIA",DIGDAYA TV
+https://ms.digdaya.tv/live/digdayatv/chunklist_w1940629469.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TJGKORi.png" group-title="INDONESIA",Hi indo!
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(0b50f52d-2491-4050-81dd-79045ddcfb34)/index.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="NASIONAL TV" tvg-logo="https://yt3.ggpht.com/VxXwFiOzcZ2Y46kJPJKBnC4fHloFjeD2lNf9ItX3eWCKEstunfGrpGDZ_BDBzVKZH8Qk4DM7qA=s88-c-k-c0x00ffffff-no-rj" group-title="INDONESIA",NTV
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/277.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="JOWO" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-jowo-id.png" group-title="INDONESIA",JOWO
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/279.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="MADU TV" tvg-logo="https://www.lyngsat.com/logo/tv/mm/madu-tv-id.png" group-title="INDONESIA",MADU TV
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/273.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="AREK TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arek_tv_id.png" group-title="INDONESIA",AREK TV
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/282.m3u8
+
+
+
+
+
+=========Lokal Daerah=========
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FRDbn3tN/jtv-surabaya.png" group-title="Lokal Daerah", JTV Surabaya
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/275.m3u8
+
+#EXTINF:-1 tvg-id="balitv" tvg-name="BALI TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_balitv_small1.png?v=2.0.0.13" group-title="Lokal Daerah",BALI TV 
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/278.m3u8
+
+#EXTINF:-1 tvg-logo="http://syarman.hexat.com/img/primatv.jpg" group-title="Lokal Daerah", Prima Tv Banjarmasin
+http://primatv.onlivestreaming.net/primatv/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/60/Logo_Duta_TV.jpg" group-title="Lokal Daerah", Duta Tv Banjarmasin
+https://v2.siar.us/dutatv/live/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrqmfDgX/jitv-logo.png" group-title="Lokal Daerah", JITV Yogyakarta
+http://202.169.224.76:1935/tv/jitv/chunklist_kamiselaluada.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/brm6VcqJ/aditv-logo.png" group-title="Lokal Daerah",ADI TV Yogyakarta
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fWvrcBMF/Banten-tv.png" group-title="Lokal Daerah", Banten TV
+https://v2.siar.us/barayatv/live/chunks.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8QCHFpd/TVKU.png" group-title="Lokal Daerah", TVKU Semarang
+http://103.30.1.14:8080/hls/live.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_jaktv_small1.png?v=2.0.0.13" group-title="Lokal Daerah",JAK TV Jakarta
+http://
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQbRb1RR/Bandung-Tv.png" group-title="Lokal Daerah",Bandung TV
+http://202.150.153.254/bandungtv720p.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKQ2d5Sn/Bayu-TV.png" group-title="Lokal Daerah",Bayu TV Nganjuk
+http://wms.klikhost.com/bayutv/live/chunklist_w54273383.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j21T26cd/CTV-Banten.png" group-title="Lokal Daerah", Cahaya TV Banten
+http://103.23.201.170:1935/live/livestream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L4V64yy8/Jogja-TV.png" group-title="Lokal Daerah",Jogja TV
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgqQ6hCY/Tegar-TV-Lampung.png" group-title="Lokal Daerah",Tegar TV Lampung
+http://wms.klikhost.com:1935/tegartv/live/chunklist_w505057089.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XXMZbXjD/Radar-TV-Tasik.png" group-title="Lokal Daerah", Radar TV Tasikmalaya
+http://radartasikmalaya.onlivestreaming.net/radartasikmalaya/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XYSFM1X7/nusantara-tv.png" group-title="Lokal Daerah" ,Nusantara TV 
+https://v6.siar.us/nusantaratv/live/kamiselaluada_chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6qqV37NW/Balikpapan-TV.png" group-title="Lokal Daerah", BTV Balikpapan
+http://122.248.43.138:1935/ch10/myStream/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8CgbHPL4/Padang-TV.png" group-title="Lokal Daerah", Padang TV
+http://122.248.43.138:1935/ch16/myStream/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hZ92sSy/Paltv-Palembang.png" group-title="Lokal Daerah", PAL TV Palembang
+http://122.248.43.138:1935/ch7/myStream/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DwJC6MHv/Sakti-tv.png" group-title="Lokal Daerah",Sakti TV Madiun
+http://video2.onlivestreaming.net/saktitv/livestream/playlist.m3u8
+
+
+
+
+
+
+
+=====SPORTS======
+
+#EXTINF:-1 tvg-ID="" tvg-name="MOLA 1" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mola-sports-1-id.png" group-title="SPORT",MOLA 1
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/402.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="MOLA 2" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mola-sports-2-id.png" group-title="SPORT",MOLA 2
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/403.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN 1" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="SPORT",BEIN 1
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/400.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN 2" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa-fr.png" group-title="SPORT",BEIN 2
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/401.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="ກຶລາ",beIN Sports 1 TH
+https://cloudserver.server-cdn-streaming.com/live-player/5/live.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="CHAMPION 1" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-1-id.png" group-title="SPORT",CHAMPION 1
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/404.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CHAMPION 2" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-2-id.png" group-title="SPORT",CHAMPION 2
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/405.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="CHAMPION 3" tvg-logo="https://www.lyngsat.com/logo/tv/cc/champions-tv-3-id.png" group-title="SPORT",CHAMPION 3
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/406.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="FIGHT SPORT" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fight_sports_us.png" group-title="SPORT",FIGHT SPORT
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/407.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="USPORT 1" tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586417862-.jpg" group-title="SPORT",USeePORT 1
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/408.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="USPORT 2" tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586417946-.png" group-title="SPORT",USeePORT 2
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/409.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://bit.ly/2Tnl5GH",RACING.COM
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://bit.ly/2Tnl5GH",Abu Dhabi Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://bit.ly/2Tnl5GH",Abu Dhabi Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+
+#EXTINF:-1,Viasat Sport
+http://persik.tv/stream/3602/287583/10249.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_320.png" group-title="ກຶລາ",TRUE Sport HD 1
+https://cloudserver.server-cdn-streaming.com/live-player/7/live.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_320.png" group-title="ກຶລາ",TRUE Sport HD 2
+https://cloudserver.server-cdn-streaming.com/live-player/8/live.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_320.png" group-title="ກຶລາ",TRUE Sport HD 3
+https://cloudserver.server-cdn-streaming.com/live-player/9/live.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/3f554960-f973-11e9-91cd-2f79be09d2b3_320.png" group-title="ກຶລາ",TRUE Sport HD 4 
+https://cloudserver.server-cdn-streaming.com/live-player/10/live.m3u8
+
+#EXTINF:-1, tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtGTLy.jpg",Astro Arena
+http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtGTLy.jpg",Astro Arena
+http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/09/18/CDHcye.png",TNT Sports 1
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/09/18/CDHcye.png",TNT Sports 2
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/09/18/CDHcye.png",TNT Sports 3
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/09/18/CDHcye.png",TNT Sports 4
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/09/18/CDHcye.png",TNT Sports 5
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="OLAHRAGA",Canal+Motor
+http://digicom.hls.iptvdc.com/motorstv/tracks-v2a1/mono.m3u8
+
+#EXTINF:0 tvg-id="ElevenSports1.pl" group-title="LOKAL",ELEVEN SPORTS 1
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+#EXTINF:0 tvg-id="ElevenSports2.pl" group-title="LOKAL",ELEVEN SPORTS 2
+http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
+
+#EXTINF:-1 group-title="Sport Liga" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",ESPN 2 HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31140?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport Liga" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",ESPN 4K
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31034?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport Liga" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",ESPN BRASIL HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31143?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport Liga" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",ESPN EXTRA HD+
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31147?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sport Liga" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",ESPN HD+
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31150?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="Sport Liga" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTtJqj8-LuT2goGhdyb_c-xAD18KQZIEXb2AsZaYfQ=s900-c-k-c0x00ffffff-no-rj",FOX SPORTS 1 FULLHD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31155?checkedby:iptvcat.com
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BeinPremium1" tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg" group-title="DIMAS SPORTS",BeinPremium1
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/49685.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BeinPremium2" tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg" group-title="DIMAS SPORTS",BeinPremium2
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/49686.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Beinsport max(mly)" tvg-logo="https://i.postimg.cc/7hh2vyHW/Bein-Sport-Share-Ext-Group.jpg" group-title="DIMAS SPORTS",Beinsport max(mly)
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/54193.ts
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="StarSport1 hd" tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="DIMAS SPORTS",StarSport1 hd
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/422.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="StarSport2hd" tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="DIMAS SPORTS",StarSport2hd
+http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/421.ts
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ten1" tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="DIMAS SPORTS",Ten1
+https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ten2" tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="DIMAS SPORTS",Ten2
+https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ten3" tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="DIMAS SPORTS",Ten3
+https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="MUSIC & MOVIES",FOOTBALL 1 HD
+https://chostv.mobie.in/choos/sports/matchqy1.m3u8
+#EXTINF:0 tvg-id="ntv-football-2" group-title="MUSIC & MOVIES",FOOTBALL 2 HD
+https://chostv.mobie.in/choos/sports/matchqy2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MUSIC & MOVIES",FOOTBALL 3 HD
+https://chostv.mobie.in/choos/sports/matchqy3.m3u8
+
+
+
+
+
+
+
+
+========== FILM ===========
+
+#EXTINF:-1 tvg-ID="" tvg-name="BIOSKOP INDO" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bioskop_id.png" group-title="FILM",BIOSKOP INDO
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/457.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="SINEMA INDO" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sinema-indonesia-id.png" group-title="FILM",SINEMA INDO
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/504.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="IMC" tvg-logo="https://www.lyngsat.com/logo/tv/ii/imc-id.png" group-title="FILM",IMC
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/422.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="HBO" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" group-title="FILM",HBO
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/416.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="HBO" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" group-title="FILM",HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="HBO  HITS" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_hits.png" group-title="FILM",HBO  HITS
+#EXTINF:-1 tvg-ID="" tvg-name="HBO  HITS" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_hits.png" group-title="FILM",HBO  HITS
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/415.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="HBO SIGNATURE" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_signature_asia.png" group-title="FILM",HBO SIGNATURE
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/414.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="HBO SIGNATURE" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_signature_asia.png" group-title="FILM",HBO SIGNATURE
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="HBO FAMILY" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_family_asia.png" group-title="FILM",HBO FAMILY
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="GALAXY" tvg-logo="https://www.lyngsat.com/logo/tv/gg/galaxy_tv_id.png" group-title="FILM",GALAXY
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/412.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="GALAXY PREMIUM" tvg-logo="https://www.lyngsat.com/logo/tv/gg/galaxy-premium-id.png" group-title="FILM",GALAXY PREMIUM
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/413.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="CINEMAX" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax-asia-us.png" group-title="FILM",CINEMAX
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="MCN" tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-cinema-id.png" group-title="FILM",MCN
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/395.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="THRILL" tvg-logo="https://www.lyngsat.com/logo/tv/tt/thrill_hk.png" group-title="FILM",THRILL
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/418.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="BOO" tvg-logo="https://www.lyngsat.com/logo/tv/bb/boo_my.png" group-title="FILM",BOO
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/417.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="KIX" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kix-hk.png" group-title="FILM",KIX
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/444.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="CELESTIAL" tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-movies-hk.png" group-title="FILM",CELESTIAL
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/420.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/af/CMC_English_full_color_black_text_2.jpg/200px-CMC_English_full_color_black_text_2.jpg" group-title="FILM", Celestial Movies 天映频道
+http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/6ed0057ffb7e6ee1f54c71b54a3fc8d1.png" group-title="FILM", Celestial Classic Movies
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/421.m3u8
+#EXTINF:-1 tvg-logo="http://tvmalaysia.cc:80/images/6ed0057ffb7e6ee1f54c71b54a3fc8d1.png" group-title="FILM", Celestial Classic Movies
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="SCM" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_chinese_movies_se_asia.png" group-title="FILM",SCM
+http://103.226.232.199:8888/live/tv/kabel/524.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="FILM", DIVA ID
+http://45.126.83.51/uq2663/h/h11/index2.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="K+" tvg-logo="https://www.lyngsat.com/logo/tv/kk/k_plus_kr.png" group-title="FILM",K+
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/438.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="ONE" tvg-logo="https://www.lyngsat.com/logo/tv/oo/one-in.png" group-title="FILM",ONE
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/423.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="CHINESE DRAMA" tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586674032-.jpg" group-title="FILM",CHINESE DRAMA
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/440.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="TVN" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvn-asia-kr.png" group-title="FILM",TVN
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/436.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="TVN MOVIE" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvnmovies.png" group-title="FILM",TVN MOVIE
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/435.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="GEM" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gem-in.png" group-title="FILM",GEM
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/498.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM", ONE
+http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM", HGTV
+http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM", Bflix Movies
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILM", Manoranjan Movies
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
+
+
+
+
+
+
+
+
+
+=======Kids=======
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="BABY FIRST" tvg-logo="https://www.lyngsat.com/logo/tv/bb/babyfirst-tv-us.png" group-title="ANAK",BABY FIRST
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/398.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="BOOMERANG" tvg-logo="https://www.lyngsat.com/logo/tv/bb/boomerang_global.png" group-title="ANAK",BOOMERANG
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/391.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="KIDZ" tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-kidz-id.png" group-title="ANAK",KIDZ
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/397.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="CN" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon_network_global.png" group-title="ANAK",CN
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/392.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="NICKELODEON" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nickelodeon_us.png" group-title="ANAK",NICKELODEON
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/394.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="NICK JR" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nick_jr_us.png" group-title="ANAK",NICK JR
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/393.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="ANIplus" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aniplus_kr.png" group-title="ANAK",ANIplus
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/390.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="DREAMWORK" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dreamworks-tv-us.png" group-title="ANAK",DREAMWORK
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/424.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="ANIMAx" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animax_asia.png" group-title="ANAK",ANIMAx
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/497.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY JUNIOR" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney_junior_us.png" group-title="ANAK",DISNEY JUNIOR
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/512.m3u8
+
+#EXTINF:-1 tvg-id="AkaramKidz.in" tvg-name="Akaram Kidz" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/hAgaVPa.jpg" group-title="ANAK",Akaram Kidz
+http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+
+#EXTINF:-1 tvg-id="CountryBoyKidsVideoBumblebee.us" tvg-name="Country Boy Kids Video (Bumblebee)" tvg-country="US" tvg-language="English" tvg-logo="https://imgix.unreel.me/https%3A%2F%2Fmedia.unreel.me%2Flive%2Fwhite%2FCountry-Boy-Kid-Videos.png?w=80&amp;h=45&amp;fit=fit&amp;blur=0&amp;ixlib=js-1.2.0&amp;s=9ac04ff1b743deaf39f243fef93ceded" group-title="ANAK",Country Boy Kids
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf225aed5eeee0f5a4094bd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CuteZoneBumblebee.us" tvg-name="Cute Zone (Bumblebee)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/unYHTWg.png" group-title="ANAK",Cute Zone
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22518d5eeee0f5a409486/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EBSKids.kr" tvg-name="EBS "KIDS" tvg-country="KR" tvg-language="Korean" tvg-logo="https://static.ebs.co.kr/www/common/img/kids/head_logo_kids.gif" group-title="ANAK",EBS Kids
+http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LegoLooneyTunesBumblebee.us" tvg-name="Lego Looney Tunes (Bumblebee)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/xePwW13.png" group-title="ANAK",Lego Looney Tunes
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
+
+#EXTINF:-1 tvg-id="nickjrtoo.us" tvg-name="Nick Jr. Too" tvg-country="UK;IE" tvg-language="English" tvg-logo="http://neczbm.to/images/channels/NickJrToo.png" group-title="ANAK",Nick Jr. Too
+http://212.224.98.213:2200/EX/Nick_Jr_Too-uk/index.m3u8?token=
+
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+#EXTINF:-1 tvg-id="Spacetoon.sy" tvg-name="Spacetoon" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://i.imgur.com/RzPOwqI.png" group-title="ANAK",Spacetoon (576p)
+
+
+
+
+
+
+
+
+
+
+
+
+======DOCUMENTER=====
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="AFN" tvg-logo="https://www.lyngsat.com/logo/tv/aa/asian-food-network-sg.png" group-title="HIBURAN",AFN
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/447.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="HGTV" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hgtv_us.png" group-title="HIBURAN",HGTV
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/319.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="TECH STORM" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tech-storm-sg.png" group-title="HIBURAN",TECH STORM
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/451.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="NAT GEO" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us.png" group-title="HIBURAN",NAT GEO
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/449.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="NATGEO WILD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.png" group-title="HIBURAN",NATGEO WILD
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/450.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="BBC EARTH" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-earth-uk.png" group-title="HIBURAN",BBC EARTH
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/429.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="NASA TV" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nasa_tv_us.png" group-title="HIBURAN",NASA TV
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/468.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="WIRED 2 FISH" tvg-logo="https://w2ffly.cbsistatic.com/fly-5/bundles/wired2fishcss/images/logos/logo-wired2fish-inversed.png" group-title="HIBURAN",WIRED 2 FISH
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/466.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="AL JAZEERA" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_jazeera_channel_qa.png" group-title="HIBURAN",AL JAZEERA
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/320.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+=======MUSIK=========
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="DANGDUT TIVI" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dangdut-tivi-id.png" group-title="MUSIK",DANGDUT TIVI
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/502.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="MALEO" tvg-logo="https://www.lyngsat.com/logo/tv/mm/maleo-id.png" group-title="MUSIK",MALEO
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/460.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="POP" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pop-in.png" group-title="MUSIK",POP
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/463.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="i KONSER" tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586427175-.png" group-title="MUSIK",i KONSER
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/443.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="K-KONSER" tvg-logo="https://seeklogo.com/images/K/K_MUSIK-logo-252F721160-seeklogo.com.png" group-title="MUSIK",K-MUSK
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/483.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="MTV" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-us.png" group-title="MUSIK",MTV
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/430.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO M2O" tvg-logo="https://www.lyngsat.com/logo/radio/mm/m2o-it.png" group-title="MUSIK",RADIO M2O
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/476.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="METAL" tvg-logo="https://clipground.com/images/metal-music-clipart-3.jpg" group-title="MUSIK",METAL
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/461.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="RADIO 21 TV" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/de-radio-21-tv-6387-300x225.jpg" group-title="MUSIK",RADIO 21 TV
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/486.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="TRT MUZIK" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-muzik-tr.png" group-title="MUSIK",TRT MUZIK
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/491.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="B4U" tvg-logo="https://www.lyngsat.com/logo/tv/bb/b4u_music_in.png" group-title="MUSIK",B4U
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/458.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+==========RELIGI==========
+
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/rodjatv.png" group-title="RELIGI",RODJA TV
+http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
+
+#EXTINF:-1 group-title="RELIGI" tvg-logo="http://kamiselaluada.com/img/mgitv.png", MGI TV
+https://tv.rodja.live/tasik/mgitv/index.m3u8
+
+#EXTINF:-1 group-title="RELIGI" tvg-logo="http://kamiselaluada.com/img/izzahtv.png",IZZAH TV
+https://streaming.sigraduta.co.id/izzahtv.m3u8
+
+#EXTINF:-1 group-title="RELIGI" tvg-logo="http://kamiselaluada.com/img/wesaltv.png", Wesaltv
+http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rptbwPQ3/AL-IMAN-TV.png" group-title="RELIGI",AL-IMAN TV
+http://tv.aliman.id:1935/aliman/HD/chunklist_w171899086.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bw4D6qYR/LIFE.png" group-title="RELIGI",LIFE
+https://liveanevia.mncnow.id/live/eds/Life/sa_hls/Life.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/h42KLq47/MADANI-TV.png" group-title="RELIGI",MADANI TV
+https://stream.asianastream.com/madani/ngrp:madanitv_all/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="AL JAZEERA" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_jazeera_channel_qa.png" group-title="RELIGI",  ALJAZEERA ARABIC
+http://45.126.83.51/qwr9ew/s/s16/index2.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="MUI" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv_mui_id.png" group-title="RELIGI",MUI
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/503.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="MAKKAH" tvg-logo="https://www.lyngsat.com/logo/tv/qq/quran-tv-sa.png" group-title="RELIGI",MAKKAH
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/298.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="TV9" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv9_surabaya_id.png" group-title="RELIGI",TV9
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/295.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="ASWAJA" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aswaja_tv_id.png" group-title="RELIGI",ASWAJA
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/292.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="TVMU" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-mu-id.png" group-title="RELIGI",TVMU
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/294.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="OASIS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-oasis-my.png" group-title="RELIGI",OASIS
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/519.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="INSAN TV" tvg-logo="https://www.lyngsat.com/logo/tv/ii/insan_id_tv.png" group-title="RELIGI",INSAN TV
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/283.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="MGI TV" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mgi-tv-id.png" group-title="RELIGI",MGI TV
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/289.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="MADINAH" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sunna-tv-sa.png" group-title="RELIGI",MADINAH
+http://103.226.232.199:8888/live/kamiselaluada/untuksemua/297.m3u8
